@@ -1,0 +1,42 @@
+.seccion1 {
+    padding: 18px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.texto1 {
+    font-size: 13px;
+    padding: 8px;
+    color: #486284;
+    margin-top: 40px;
+    
+    
+
+}
+
+.titulo {
+    font-size: 24px;
+    color: #486284;
+}
+
+.descripcion {
+    font-size: 16px;
+    color: #8CA2C0;
+    padding: 16px;
+
+}
+
+.btn1 {
+    width: 100%;
+    border: 1px solid gray;
+    border-radius: 30px;
+    padding: 20px;
+
+    font-size: 16px;
+    color: #486284;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
