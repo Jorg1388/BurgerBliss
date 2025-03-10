@@ -1,0 +1,92 @@
+.seccion3 {
+    padding: 48px 24px;
+    padding-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    
+
+}
+
+.texto3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: #486284;
+
+}
+
+.titulo4 {
+    font-size: 24px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #486284;
+}
+
+.descripcion3 {
+    font-size: 16px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #8CA2C0;
+    
+
+}
+
+.btn4 {
+    width: 100%;
+    border: 1px solid gray;
+    background-color: #486284;
+    border-radius: 30px;
+    padding: 20px;
+
+    font-size: 16px;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.btn5 {
+    width: 100%;
+    border: 1px solid gray;
+    border-radius: 30px;
+    padding: 20px;
+
+    font-size: 16px;
+    color: #486284;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    margin-top: 20px;  
+
+}
+
+.titulo5 {
+    padding: 20px;
+    font-size: 21px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #9CB0C9;
+}
+
+.logos2 {
+    width: 100%;
+    padding: 3px;
+
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.logos2 div {
+    width: 100px;
+    height: 100px;
+
+    margin-bottom: 200px;
+
+}

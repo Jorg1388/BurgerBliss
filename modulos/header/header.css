@@ -1,0 +1,19 @@
+header {
+    background-color: white;
+    border-bottom: 1px solid #8CA2C0;
+    width: 100%;
+    height: 64px;
+    padding: 0 24px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .logo {
+    height: 30px;
+}
+
+header .menu {
+    height: 20px;
+}
